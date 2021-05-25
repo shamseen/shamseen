@@ -1,5 +1,10 @@
-### Hi there 👋
+# Hello and welcome!
+![visitors](https://visitor-badge.glitch.me/badge?page_id=shamseen.shamseen)
 
+[![Shamseen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shamseen&theme=cobalt)](https://github.com/shamseen/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamseen&layout=compact)](https://github.com/shamseen/github-readme-stats)
 <!--
 **shamseen/shamseen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
